@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/errcruze404/CRUZEDDOS/main/proxies2.txt
+https://raw.githubusercontent.com/errcruze404/CRUZEDDOS/main/proxies3.txt
+https://raw.githubusercontent.com/errcruze404/CRUZEDDOS/main/proxies.txt
